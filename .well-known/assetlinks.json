@@ -3,8 +3,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "UZUPELNIJ.package.domain.package.name",
-      "sha256_cert_fingerprints": ["UZUPELNIJ:ODCISK:SHA-256:CERTYFIKATU:PODPISU:APLIKACJI"]
+      "package_name": "org.dominik.learncode",
+      "sha256_cert_fingerprints": ["DC:52:7A:EB:54:64:19:42:DA:85:2F:3D:1D:D0:E8:F6:85:4C:40:CB:DC:E2:9D:76:B4:BA:9F:49:30:B5:DA:9E"]
     }
   }
 ]
