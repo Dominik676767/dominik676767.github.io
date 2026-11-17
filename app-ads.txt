@@ -1,0 +1,2 @@
+# AdMob: wpis wydawcy (Panel AdMob -> Aplikacje -> Wyświetl wszystkie -> app-ads.txt). Podmień pub-XXXXXXXXXXXXXXXX.
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
